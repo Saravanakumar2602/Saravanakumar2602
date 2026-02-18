@@ -1,4 +1,4 @@
-<h1 align="center">Saravanakumar</h1>
+<h1 align="center">Saravanakumar G</h1>
 <p align="center">Game Developer • Web Developer • IT Student</p>
 
 <p align="center">
