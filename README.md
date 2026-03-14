@@ -56,7 +56,11 @@
 ---
 
 ### 🎧 I'm listening to:
-[![Spotify](https://novatorem-spotify-status.vercel.app/api/now-playing?uid=31uzi6q4idbttcp3q3v7yypqigqi&theme=dark)](https://open.spotify.com/user/31uzi6q4idbttcp3q3v7yypqigqi)
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31uzi6q4idbttcp3q3v7yypqigqi&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31uzi6q4idbttcp3q3v7yypqigqi&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=false">
+  </a>
+</p>
 
 ---
 
