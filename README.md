@@ -19,16 +19,6 @@
 
 ---
 
-### 🚀 About Me
-- 🏆 **Caterpillar Autonomy Challenge 2026:** Secured **1st Place** for the autonomous rover **Agazhvan**.
-- 🎬 **Technical Leadership:** Serving as the **Media and Content Lead** at the **Centre for Innovation (CFI)**.
-- 💻 **Full-Stack Developer:** Specialized in the **MERN Stack** (MongoDB, Express, React, Node.js) and **Next.js**.
-- ♾️ **DevOps & Systems:** Passionate about **Linux**, **Docker**, and streamlining development workflows.
-- 🧠 **Problem Solver:** Solved **200+ LeetCode** problems and **800+ SkillRack** challenges.
-- 🎓 **Academic:** B.Tech IT student at **Sri Eshwar College of Engineering** (CGPA: 8.18).
-
----
-
 ### 📁 Featured Engineering Project
 
 #### 🤖 Agazhvan | Autonomous Rover
