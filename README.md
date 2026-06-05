@@ -1,87 +1,152 @@
-<h1 align="center">Hi 👋, I'm Saravanakumar G</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=47A1FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;DevOps+Engineer;Game+developer" alt="Typing SVG" />
-</p>
+<!-- Header Banner -->
+<div align="center">
 
-<p align="center">
-  <a href="https://linkedin.com/in/saravanakumar26022007" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:saravanakumar.g2024it@sece.ac.in">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/saravanakumar_2602/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
+```
+███████╗ █████╗ ██████╗  █████╗ ██╗   ██╗ █████╗ ███╗   ██╗ █████╗
+██╔════╝██╔══██╗██╔══██╗██╔══██╗██║   ██║██╔══██╗████╗  ██║██╔══██╗
+███████╗███████║██████╔╝███████║██║   ██║███████║██╔██╗ ██║███████║
+╚════██║██╔══██║██╔══██╗██╔══██║╚██╗ ██╔╝██╔══██║██║╚██╗██║██╔══██║
+███████║██║  ██║██║  ██║██║  ██║ ╚████╔╝ ██║  ██║██║ ╚████║██║  ██║
+╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝
+```
 
----
+### 🪓 `[ Saravanakumar2602 ]` — *The Dev Who Ships in Creative Mode*
 
-### 📁 Featured Engineering Project
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&pause=1000&color=5DB85D&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;DevOps+Engineer;Game+Developer;Gamer+%F0%9F%8E%AE;Building+the+world%2C+one+block+at+a+time...)
 
-#### 🤖 Agazhvan | Autonomous Rover
-> **Winner: Caterpillar Autonomy Challenge 2026.** Developed a robust autonomous rover for harsh environment navigation and excavation.
-- **Network Design:** Architected the communication network for stable real-time video streaming.
-- **Telemetry:** Implemented continuous telemetry systems between the rover and control room.
-- **Embedded Systems:** Handled low-level embedded coding for system integration and data flow.
+</div>
 
 ---
 
-### 🏆 Honors & Awards
-- 🥇 **1st Place** – Caterpillar Autonomy Challenge (2026).
-- 🥈 **2nd Place** – Srishti 2025 (PSG Tech).
-- 🥈 **2nd Place** – Freshathon 2025 (Project Expo 3.0).
-- 🎨 **2nd Position** – Freshwarites Logo Design Contest.
+## 🗺️ `[ WORLD SEED: SARAVANAKUMAR2602 ]`
+
+```
+📦 LOADING CHUNKS...  ████████████████████  100%
+
+  🌍 BIOME         → Full Stack Overworld + DevOps Nether
+  🏠 HOME BASE     → India
+  🎮 GAME MODE     → Creative (with Survival instincts)
+  ❤️  HEALTH       → 20/20 (powered by coffee + code)
+  🌟 XP LEVEL      → Senior Dev
+  🧰 INVENTORY     → Web Apps • Containers • Cloud • Games
+```
 
 ---
 
-### 🛠️ Technical Stack
+## ⚔️ `[ SKILL ENCHANTMENTS ]`
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,mongodb,python,java,cpp,cs,dart,unity,tailwind,firebase,git,github,docker,linux,figma,ps,pr" alt="My Skills" />
-</p>
+```
+╔══════════════════════════════════════════════════════════╗
+║              🔮  ENCHANTING TABLE  🔮                    ║
+╠══════════════════════════════════════════════════════════╣
+║                                                          ║
+║  FRONTEND         ██████████████████░░  React / Next.js  ║
+║  BACKEND          ████████████████░░░░  Node / Express   ║
+║  CONTAINERS       ███████████████░░░░░  Docker / K8s     ║
+║  CLOUD            ██████████████░░░░░░  AWS / GCP / Azure║
+║  GAME DEV         ████████████░░░░░░░░  Unity / Godot    ║
+║  DEVOPS           ████████████████░░░░  CI/CD Pipelines  ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+```
 
 ---
 
-### 🎧 I'm listening to:
+## 🧰 `[ HOTBAR — TECH STACK ]`
+
+<div align="center">
+
+### ⬛ Frontend Blocks
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### 🟫 Backend Blocks
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🔴 DevOps Nether Blocks
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
+</div>
+
+---
+
+## 📊 `[ PLAYER STATS ]`
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Saravanakumar2602&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=5DB85D&icon_color=5DB85D&text_color=ffffff&border_radius=10" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saravanakumar2602&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=5DB85D&text_color=ffffff&border_radius=10" />
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Saravanakumar2602&theme=tokyonight&hide_border=true&background=0d1117&ring=5DB85D&fire=FF6B35&currStreakLabel=5DB85D&border_radius=10)
+
+</div>
+
+---
+
+## 🎧 `[ CURRENTLY IN GAME — NOW LISTENING ]`
+
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31uzi6q4idbttcp3q3v7yypqigqi&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31uzi6q4idbttcp3q3v7yypqigqi&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=false">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31uzi6q4idbttcp3q3v7yypqigqi&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
   </a>
 </p>
 
 ---
 
-### 📊 GitHub Statistics
+## 🐍 `[ CONTRIBUTION SNAKE — OVERWORLD MAP ]`
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Saravanakumar2602&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="180" alt="Overall Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Saravanakumar2602&layout=compact&theme=dracula&hide_border=true" height="180" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saravanakumar2602&theme=dracula&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-### 🐍 Contribution Activity
 <p align="center">
   <img src="https://raw.githubusercontent.com/Saravanakumar2602/Saravanakumar2602/output/snake.svg?sanitize=true" alt="Snake Animation" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saravanakumar2602&theme=dracula&hide_border=true&area=true" width="100%" alt="Activity Graph" />
-</p>
+---
+
+## 🌍 `[ FIND ME IN THE OVERWORLD ]`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=5DB85D)](https://YOUR_PORTFOLIO_URL)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+
+</div>
+
+---
+
+## 📜 `[ DEV SCROLLS — THE CREED ]`
+
+```
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║   "In Survival mode, you build to live.                  ║
+║    In Creative mode, you live to build.                  ║
+║    I chose to do both — in code."                        ║
+║                                                          ║
+║                           — Saravanakumar2602            ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Saravanakumar2602&color=5DB85D&style=for-the-badge&label=VISITORS+TO+MY+WORLD)
+
+*⛏️ Still mining... Still building... Never stopping.*
+
+</div>
