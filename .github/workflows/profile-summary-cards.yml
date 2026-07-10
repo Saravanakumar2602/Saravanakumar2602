@@ -6,8 +6,10 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write
-  actions: read
+  contents: write        # allow commits
+  actions: read          # allow API calls
+  issues: read           # sometimes needed for stats
+  pull-requests: read    # sometimes needed for stats
 
 jobs:
   build:
