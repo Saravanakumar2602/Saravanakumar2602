@@ -81,19 +81,37 @@
 
 ## 📊 `[ PLAYER STATS ]`
 
-<div align="center">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Saravanakumar2602/Saravanakumar2602/main/profile-summary-card-output/github_dark/0-profile-details.svg" />
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Saravanakumar2602&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=5DB85D&icon_color=5DB85D&text_color=ffffff&border_radius=10" />
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/Saravanakumar2602/Saravanakumar2602/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" />
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/Saravanakumar2602/Saravanakumar2602/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/Saravanakumar2602/Saravanakumar2602/main/profile-summary-card-output/github_dark/3-stats.svg" />
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/Saravanakumar2602/Saravanakumar2602/main/profile-summary-card-output/github_dark/4-productive-time.svg" />
+    </td>
+  </tr>
+</table>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saravanakumar2602&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=5DB85D&text_color=ffffff&border_radius=10" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saravanakumar2602&theme=github-dark&hide_border=true&area=true&color=39D353&line=39D353&point=39D353&area_color=39D353" />
+</p>
 
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Saravanakumar2602&theme=tokyonight&hide_border=true&background=0d1117&ring=5DB85D&fire=FF6B35&currStreakLabel=5DB85D&border_radius=10)
-
-</div>
+---
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Saravanakumar2602?theme=dark&border=1&radius=6" />
+</p>
 
 ---
 
