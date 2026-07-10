@@ -13,4 +13,5 @@ jobs:
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         with:
           USERNAME: Saravanakumar2602
-          THEME: github_dark
+          BRANCH_NAME: main
+          AUTO_PUSH: true
