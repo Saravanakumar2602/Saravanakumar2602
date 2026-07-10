@@ -82,29 +82,6 @@
 ## 📊 `[ PLAYER STATS ]`
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Saravanakumar2602/Saravanakumar2602/main/profile-summary-card-output/github_dark/0-profile-details.svg" />
-</p>
-
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://raw.githubusercontent.com/Saravanakumar2602/Saravanakumar2602/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" />
-    </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/Saravanakumar2602/Saravanakumar2602/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://raw.githubusercontent.com/Saravanakumar2602/Saravanakumar2602/main/profile-summary-card-output/github_dark/3-stats.svg" />
-    </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/Saravanakumar2602/Saravanakumar2602/main/profile-summary-card-output/github_dark/4-productive-time.svg" />
-    </td>
-  </tr>
-</table>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saravanakumar2602&theme=github-dark&hide_border=true&area=true&color=39D353&line=39D353&point=39D353&area_color=39D353" />
 </p>
 
