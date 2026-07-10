@@ -1,0 +1,16 @@
+name: GitHub Profile Summary Cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs daily
+  workflow_dispatch:       # allows manual trigger
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        with:
+          USERNAME: Saravanakumar2602
+          THEME: github_dark
