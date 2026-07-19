@@ -92,13 +92,3 @@
 <a href="https://leetcode.com/Saravanakumar2602"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
 
 </p>
-
----
-
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=Saravanakumar2602&style=for-the-badge&color=5DB85D)
-
-**Still mining. Still building.**
-
-</div>
