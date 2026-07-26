@@ -16,13 +16,13 @@ jobs:
       contents: write
     steps:
       - name: generate-pacman-game-from-github-contribution-grid
-        uses: abozanona/pacman-contribution-graph@v5.0.0
+        uses: abozanona/pacman-contribution-graph@v5.3.1
         with:
           github_user_name: Saravanakumar2602
           games: 'pacman,galaga'
 
       - name: Push contribution graphs to the output branch
-        uses: crazy-max/ghaction-github-pages@v3
+        uses: crazy-max/ghaction-github-pages@v5
         with:
           target_branch: output
           build_dir: dist
