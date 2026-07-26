@@ -71,26 +71,11 @@
 
 ---
 
-## 👾 Contribution Game (Galaga)
+## 🐍 Contribution Snake
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Saravanakumar2602/Saravanakumar2602/output/galaga-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Saravanakumar2602/Saravanakumar2602/output/galaga-contribution-graph.svg">
-    <img alt="Galaga contribution graph" src="https://raw.githubusercontent.com/Saravanakumar2602/Saravanakumar2602/output/galaga-contribution-graph.svg">
-  </picture>
+<img src="https://raw.githubusercontent.com/Saravanakumar2602/Saravanakumar2602/output/snake.svg" />
 </p>
-
-<!-- Pacman theme alternative (uncomment if you want to switch to Pacman):
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Saravanakumar2602/Saravanakumar2602/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Saravanakumar2602/Saravanakumar2602/output/pacman-contribution-graph.svg">
-    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/Saravanakumar2602/Saravanakumar2602/output/pacman-contribution-graph.svg">
-  </picture>
-</p>
--->
-
 
 ---
 
