@@ -16,7 +16,7 @@ jobs:
       contents: write
     steps:
       - name: generate-pacman-game-from-github-contribution-grid
-        uses: abozanona/pacman-contribution-graph@v5.3.1
+        uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: Saravanakumar2602
           games: 'pacman,galaga'
