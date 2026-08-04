@@ -24,27 +24,51 @@
 
 ## 🧰 Tech Stack
 
-### Frontend
+<p align="center">
+<table>
+<tr>
+<td width="50%" align="center">
+<h3>💻 Programming Languages</h3>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js,python,html,css" />
+<br/><br/>
 
-### Backend
+</td>
 
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-222?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+<td width="50%" align="center">
+<h3>📚 Technologies & Frameworks</h3>
 
-### DevOps & Cloud
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,react,nextjs,tailwind" />
+<br/><br/>
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions)
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+<h3>🗄️ Databases</h3>
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
+<br/><br/>
+
+</td>
+
+<td width="50%" align="center">
+<h3>🧰 Tools & Platforms</h3>
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,docker,unity,photoshop" />
+<br/><br/>
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+
+</td>
+</tr>
+</table>
+</p>
 
 
 ## 📈 GitHub Activity
