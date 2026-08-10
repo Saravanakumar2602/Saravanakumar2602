@@ -18,7 +18,6 @@
 
 </div>
 
----
 
 
 
@@ -77,7 +76,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saravanakumar2602&theme=github-dark&hide_border=true&area=true"/>
 </p>
 
----
 
 ## 💻 LeetCode
 
@@ -85,7 +83,6 @@
 <img src="https://leetcard.jacoblin.cool/Saravanakumar2602?theme=dark&border=1&radius=8"/>
 </p>
 
----
 
 ## 🎵 Now Playing
 
@@ -93,7 +90,6 @@
 <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31uzi6q4idbttcp3q3v7yypqigqi&cover_image=true&theme=spotify-embed&background_color=121212"/>
 </p>
 
----
 
 ## 🐍 Contribution Snake
 
@@ -101,7 +97,6 @@
 <img src="https://raw.githubusercontent.com/Saravanakumar2602/Saravanakumar2602/output/snake.svg" />
 </p>
 
----
 
 ## 📫 Connect
 
