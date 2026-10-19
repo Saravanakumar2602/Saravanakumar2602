@@ -73,7 +73,7 @@
 ## 📈 GitHub Activity
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Saravanakumar2602&theme=github-dark&hide_border=true&area=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Saravanakumar2602&show_icons=true&theme=github_dark" />
 </p>
 
 
@@ -84,11 +84,6 @@
 </p>
 
 
-## 🎵 Now Playing
-
-<p align="center">
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31uzi6q4idbttcp3q3v7yypqigqi&cover_image=true&theme=spotify-embed&background_color=121212"/>
-</p>
 
 
 ## 🐍 Contribution Snake
